@@ -1,0 +1,162 @@
+.left {
+
+    margin-right: auto;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.nav-items {
+    display: flex;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav_items ul {
+    display: flex;
+    margin-top: 14px;
+    gap: 32px;
+    margin-right: 40px;
+}
+
+.items li {
+    padding: 16px;
+
+}
+
+.yellowbutton {
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    background-color: rgba(245, 138, 7, 0.1);
+    border-radius: 30px;
+    color: #f58a07;
+    text-align: center;
+}
+
+.header {
+    background-color: #dceaf5;
+
+}
+
+.container-in {
+    display: flex;
+
+}
+
+.header_text {
+    align-items: center;
+    margin: auto auto;
+
+
+
+}
+
+.text {
+    letter-spacing: -0.03em;
+
+}
+
+.heading {
+    padding-right: auto;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 30px;
+}
+
+.text-under {
+    color: rgba(91, 91, 91, 1);
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    padding-bottom: 30px;
+
+}
+
+.buttons_box {
+    display: flex;
+    flex-direction: row;
+}
+
+.button li {
+    padding: 16px;
+}
+
+.button {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    border-radius: 30px;
+    background-color: #f58a07;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.text-footer {
+    color: rgba(57, 65, 73, 0.5);
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    margin-top: 40px;
+}
+
+.header_logos {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.header-images {
+    margin-right: -30px;
+}
+
+
+
+.help-section{
+    background-color: white;
+    
+}
+.help-posts{
+    display: flex;
+    justify-content: space-between;
+
+}
+.help-posts img{
+    border-radius: 30px/30px ;
+}
+.garchig{
+    font-size: 48px;
+line-height: 56px;
+width: 750px;
+margin-top: 80px;
+}
+.text-under{
+    width: 750px;
+}
+.firsth4{
+    padding-top:30px ;
+    padding-bottom: 30px;
+    font-size: large;
+}
+.secondh4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: large;
+}
+.thirthh4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: large;
+}
+.postfooter{
+    color:  rgba(245, 138, 7, 1);
+}
